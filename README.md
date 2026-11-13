@@ -184,7 +184,7 @@ If the resulting state is unsafe, the tentative allocation is rolled back and th
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/tanishshah-07/bankers-algorithm-os.git
+git clone https://github.com/ParikshithGajula/bankers-algorithm-os.git
 cd bankers-algorithm-os
 ```
 
@@ -288,4 +288,4 @@ The project demonstrates how operating-system synchronization mechanisms can be 
 
 ## Repository
 
-GitHub: https://github.com/tanishshah-07/bankers-algorithm-os
+GitHub: https://github.com/ParikshithGajula/bankers-algorithm-os
